@@ -10,7 +10,7 @@ public class AddressBook {
         addressBook.addBuddy(buddy1);
         addressBook.removeBuddy(buddy1);
     }
-
+    //Tester text
     public AddressBook() {
         this.buddies = new ArrayList<>();
     }
